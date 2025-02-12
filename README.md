@@ -1,8 +1,16 @@
-# React + Vite
+# Cinevy – Your Ultimate Movie & TV Series Companion 🎬
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Cinevy is a beautifully designed and feature-rich movie and TV series rating & information app built using React. With a sleek UI and seamless functionality, Cinevy ensures a smooth and engaging experience for movie lovers.
 
-Currently, two official plugins are available:
+🚀 Key Features:
+🎥 Comprehensive Movie & TV Show Info – Get detailed insights, ratings, and summaries.
+🔍 Advanced Search – Quickly find your favorite movies and series.
+📺 React Player Integration – Watch trailers seamlessly.
+🌍 Infinite Scrolling – Browse effortlessly without interruptions.
+⚡ Redux & Context API – Efficient state management for a smooth experience.
+🌐 API Integration – Fetch real-time data for accurate information.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠 Current Status:
+Cinevy is fully functional with most features working flawlessly. However, it's currently optimized for larger screens. Future updates will bring full responsiveness, ensuring a seamless experience across all devices!
+
+📢 Stay tuned for exciting updates! 🚀
