@@ -4,7 +4,7 @@ import Topnav from "./partials/Topnav";
 import Dropdown from "./partials/Dropdown";
 import axios from "../utils/axios";
 import Cards from "./partials/Cards";
-import Loading from "./loading";
+import Loading from "./Loading";
 import InfiniteScroll from "react-infinite-scroll-component";
 
 function Trending() {
